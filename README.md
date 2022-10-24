@@ -7,5 +7,3 @@
 6.	Create file with extension pdf that proofing you're already doing poin 2-5
 7.	Commit and pust it to online repository
 8.	You can give your repository link to Teaching Assistant
-
-https://drive.google.com/drive/u/2/folders/1K736IEja-6jvuu58ks-fp-iR-wC3kl3E
